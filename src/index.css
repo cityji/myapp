@@ -67,6 +67,9 @@ nav a:hover {
   border-bottom: 2px solid black;
 
 }
+.article-title{
+  text-align: left;
+}
 .article-para{
   text-align: justify;
 }
