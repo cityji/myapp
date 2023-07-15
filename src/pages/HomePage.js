@@ -16,10 +16,10 @@ const HomePage = () => {
             <h2>Find More About Me</h2>
             <p>
                 Check out my 
-                <a href="https://cityji.github.com/portfolio" target="_blank"> personal website!</a>
+                <a href="https://cityji.github.com/portfolio" target="_blank" rel="noopener noreferrer"> personal website!</a>
                 <br />
                 I'm also on GitHub:
-                <a href="https://github.com/cityji" target="_blank">
+                <a href="https://github.com/cityji" target="_blank" rel="noopener noreferrer">
                     Nikhil Tiwari@fgithub
                 </a>
             </p>
