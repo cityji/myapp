@@ -70,7 +70,7 @@ nav a:hover {
 .article-title{
   text-align: left;
 }
-.article-para{
+.article-para,p{
   text-align: justify;
 }
 
